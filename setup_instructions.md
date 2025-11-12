@@ -79,6 +79,3 @@ This dual-environment setup ensures:
 - **Modularity:** GUI and ROS runtime are loosely coupled.
 - **Safety:** No risk of breaking the global ROS installation.
 - **Reproducibility:** Anyone can recreate the environment using `venv` and `requirements.txt`.
-
-For portability, include both this file and `requirements.txt` in your project submission.
-
